@@ -1,4 +1,4 @@
-## All notebooks for Super-AI season#3 level#1 hackhathon
+## All notebooks for Super-AI season#3 level#1 hackathon
 
 1. Image Processing Rank: 16/206 - 29 Oct 2022
 
